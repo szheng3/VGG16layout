@@ -1,4 +1,4 @@
-# SeniorProject
+# VGG16 layout EECS199
 Made by Team55 Advisor: Prof. Homayoun Yousefi'zadeh
 
 Prerequement:
