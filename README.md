@@ -1,5 +1,9 @@
 # VGG16 layout EECS199
-Made by Team55 Advisor: Prof. Homayoun Yousefi'zadeh
+Made by Shuai Zheng Advisor: Prof. Homayoun Yousefi'zadeh
+
+# Demo
+https://www.youtube.com/watch?v=0G_QhksVwr8&feature=youtu.be
+
 
 Prerequement:
 
@@ -24,3 +28,6 @@ Usage:
 
 
 This Machine Learning algorithm is only used to generate .jar file. So that it could fit in our Senior Project: https://github.com/szheng3/Senior-Project
+
+Reference:
+https://deeplearning4j.org/
